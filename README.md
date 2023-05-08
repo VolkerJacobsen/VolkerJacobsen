@@ -2,8 +2,6 @@
 
 ## Thank you for visiting my profile.
 
-My workexperience includes:
-
 I am currently taking part in a coding bootcamp at neuefische GmbH.
 
 My hobbies are:
